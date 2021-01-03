@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-acoxj.com-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandar-jeremic-3245921b7/)](https://www.linkedin.com/in/aleksandar-jeremic-3245921b7/)
 [![Website Badge](https://img.shields.io/badge/-acoxj.comme-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://acoxj.com)](https://acoxj.com)
-[![Twitter Badge](https://img.shields.io/badge/-@__acoxj.com-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acoxdev)](https://twitter.com/_jesslim)
+[![Twitter Badge](https://img.shields.io/badge/-@__acoxj.com-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acoxdev)](https://twitter.com/acoxdev)
 [![Instagram Badge](https://img.shields.io/badge/-@acoxj.com-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/acox5/)](https://instagram.com/acox5)
 [![Gmail Badge](https://img.shields.io/badge/-acoxj.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:skipperaleksa@gmail.com)](mailto:skipperaleksa@gmail.com)
 
